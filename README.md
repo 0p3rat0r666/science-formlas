@@ -2,7 +2,7 @@
 
 ![*☆*](https://xaoiui.neocities.org/Limestar.gif) wow past xao did NOT know how to write a readme... anyway this repository is a compilation of science calculations written into functions to make things easier. ![*☆*](https://xaoiui.neocities.org/Limestar.gif)
 
-# ![*☆*](https://xaoiui.neocities.org/Limestar.gif) what is included:
+# what is included:
 
 ![*☆*](https://xaoiui.neocities.org/Limestar.gif) apeman (2 versions)
 ![*☆*](https://xaoiui.neocities.org/Limestar.gif) density
